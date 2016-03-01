@@ -64,9 +64,11 @@
   <ItemGroup>
     <Compile Include="Assets\_Scripts\Coin.cs" />
     <Compile Include="Assets\_Scripts\DeathTrigger.cs" />
+    <Compile Include="Assets\_Scripts\Misille.cs" />
     <Compile Include="Assets\_Scripts\SimplePlatformController.cs" />
     <Compile Include="Assets\_Scripts\SpawnCoin.cs" />
     <Compile Include="Assets\_Scripts\SpawnManager.cs" />
+    <Compile Include="Assets\_Scripts\SpawnMisille.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
