@@ -57,12 +57,6 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.Networking">
-      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -70,7 +64,6 @@
   <ItemGroup>
     <Compile Include="Assets\_Scripts\Coin.cs" />
     <Compile Include="Assets\_Scripts\DeathTrigger.cs" />
-    <Compile Include="Assets\_Scripts\PlatformFall.cs" />
     <Compile Include="Assets\_Scripts\SimplePlatformController.cs" />
     <Compile Include="Assets\_Scripts\SpawnCoin.cs" />
     <Compile Include="Assets\_Scripts\SpawnManager.cs" />
